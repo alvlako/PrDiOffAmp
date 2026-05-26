@@ -1,0 +1,5 @@
+biopython>=1.78
+pandas>=1.5
+matplotlib>=3.5
+numpy>=1.21
+tqdm>=4.60
