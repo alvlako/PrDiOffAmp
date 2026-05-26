@@ -91,18 +91,22 @@ Summary.tsv:
 |
  amplicon   
 |
-       120 
+       120
 |
-                10 
+                10
 |
                      8.333333333333334 
 |
-                    10 
+                    10
 |
-                    10 
+                    10
 |
-                90 
+                90
 |
+    
+|
+        
+
 Plot.png:
 <img width="3000" height="1800" alt="image" src="https://github.com/user-attachments/assets/61f94f88-9197-46b9-863b-ff9033e255a6" />
 
