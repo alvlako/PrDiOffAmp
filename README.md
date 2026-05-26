@@ -57,52 +57,9 @@ Alternatively requirements can be installed with conda
 4) Look at the output
 Summary.tsv:
 
-|
- sample_id 
-|
- total_reads 
-|
- primer_dimer_count 
-|
- primer_dimer_percentage 
-|
- short_offtarget_count 
-|
- long_offtarget_count 
-|
- valid_amplicon_count 
-|
-|
------------
-|
-------------:
-|
--------------------:
-|
-------------------------:
-|
-----------------------:
-|
----------------------:
-|
----------------------:
-|
-|
- amplicon  
-|
-          120
-|
-                  10
-|
-               8.33333333
-|
-                     10
-|
-                    10
-|
-                    90
-|
-        
+| sample_id                                                                                                                                       | total_reads | primer_dimer_count | primer_dimer_percentage | short_offtarget_count | long_offtarget_count | valid_amplicon_count |
+| :----------------------------------------------------------------------------------------------------------------------------------------------- | -------- | --------- | ------- | --------- | --------- | --------- |
+| amplicon | 120      | 10      | 8.333333333333334     | 10        | 10       | 90       |   
 
 Plot.png:
 <img width="3000" height="1800" alt="image" src="https://github.com/user-attachments/assets/61f94f88-9197-46b9-863b-ff9033e255a6" />
