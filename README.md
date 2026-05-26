@@ -56,7 +56,6 @@ Alternatively requirements can be installed with conda
 `python3 PrDiOffAmp_analyze.py -i amplicon -1 R1.fastq -2 R2.fastq -p primers.fasta --plot plot1.png -o summary.tsv`
 4) Look at the output
 Summary.tsv:
-## Sample summary (summary.tsv)
 
 |
  sample_id 
@@ -89,21 +88,19 @@ Summary.tsv:
 ---------------------:
 |
 |
- amplicon   
+ amplicon  
 |
-       120
+          120
 |
-                10
+                  10
 |
-                     8.333333333333334 
+               8.33333333
+|
+                     10
 |
                     10
 |
-                    10
-|
-                90
-|
-    
+                    90
 |
         
 
