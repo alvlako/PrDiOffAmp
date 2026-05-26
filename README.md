@@ -55,6 +55,7 @@ Alternatively requirements can be installed with conda
 3) Run PrDiOffAmp
 `python3 PrDiOffAmp_analyze.py -i amplicon -1 R1.fastq -2 R2.fastq -p primers.fasta --plot plot1.png -o summary.tsv`
 4) Look at the output
+
 Summary.tsv:
 
 | sample_id                                                                                                                                       | total_reads | primer_dimer_count | primer_dimer_percentage | short_offtarget_count | long_offtarget_count | valid_amplicon_count |
